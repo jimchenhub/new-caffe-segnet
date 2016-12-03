@@ -1,3 +1,9 @@
+# New Caffe SegNet
+To use some new features, I implement the `SegNet` in current version of `Caffe`.
+
+Because `Caffe` has already have `Batch Normalization Layer`, I just implement `Upsample Layer` and `Dense Image Data Layer`.
+
+
 # Caffe
 
 [![Build Status](https://travis-ci.org/BVLC/caffe.svg?branch=master)](https://travis-ci.org/BVLC/caffe)
